@@ -15,3 +15,12 @@ Dokumen ini merangkum strategi penjualan yang efektif dan efisien bagi **AI Voic
 ## 🚀 Kontribusi
 Pull-request & issue sangat dipersilakan.  
 Target pembaca: *founder klinik, praktisi TI kesehatan, investor, dan regulator*.
+
+## 📎 Cite
+```bibtex
+@report{ai-voice-sales-id,
+  title   = {Strategi Penjualan AI Voice untuk Fasilitas Kesehatan di Indonesia},
+  year    = {2025},
+  url     = {https://nusantaraja.github.io/GoToMarket-AIV-Faskes/},
+  license = {MIT}
+}
